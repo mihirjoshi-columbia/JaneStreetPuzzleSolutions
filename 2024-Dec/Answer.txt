@@ -1,0 +1,3 @@
+The board game sets each spell out a letter and the order of the letters is given by the order of the boxes in the back. This spells out the words "MISSINGONES" which implies that for each board game set, there is a missing element. Going through all of them (and organizing them in the same order as previously) and then taking the first letter of each word, the answer yields "YOU SUNK MY " which is a phrase meaning you sunk my battleship!
+
+Answer: battleship
