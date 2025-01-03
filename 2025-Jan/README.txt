@@ -1,0 +1,1 @@
+This solution was created by brute forcing the potential options for numbers by recognizing the rotational shift and then adding constraints to the potential number and finding the highest max gcd given those numbers.
